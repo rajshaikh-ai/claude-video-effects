@@ -2,7 +2,9 @@
 
 Drop your video into Claude, type `/effects` and the name of an effect. That's the whole edit.
 
-Made by [@vibha.in.progress](https://instagram.com/vibha.in.progress) 💛
+Shared by [Raj](https://github.com/rajshaikh-ai) 🎬 · Original effects made by [@vibha.in.progress](https://instagram.com/vibha.in.progress) 💛
+
+> Came here from my reel? Install below, drop your video into Claude and type `/effects`. Have fun!
 
 ![All 42 effects](assets/preview.jpg)
 
@@ -11,14 +13,14 @@ Made by [@vibha.in.progress](https://instagram.com/vibha.in.progress) 💛
 Open the Terminal app (or the terminal inside Claude Code) and paste:
 
 ```bash
-git clone https://github.com/Vibha-Ramprakash/claude-video-effects ~/.claude/skills/effects
+git clone https://github.com/rajshaikh-ai/claude-video-effects ~/.claude/skills/effects
 ```
 
 On Windows (PowerShell), use `$HOME\.claude\skills\effects` instead of `~/.claude/skills/effects`.
 
 Then restart Claude Code. That's it.
 
-> Not sure how? Open Claude Code and paste: **"Install the skill from github.com/Vibha-Ramprakash/claude-video-effects into ~/.claude/skills/effects"**. Claude will do it for you.
+> Not sure how? Open Claude Code and paste: **"Install the skill from github.com/rajshaikh-ai/claude-video-effects into ~/.claude/skills/effects"**. Claude will do it for you.
 
 ## Use it
 
